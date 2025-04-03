@@ -4,3 +4,4 @@
 * lime (1,5 euros)
 * salt (2 euros)
 ## Instructions
+* peel the avocados.
